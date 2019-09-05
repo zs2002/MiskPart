@@ -3,4 +3,4 @@
 ### Repo contains:
 ##### 0- Lesson Agenda.
 ##### 1- Explain the concept of a DT, demo of the concept(.ipynb)
-##### 2- Questions to be answered by students to insure knowledge transfer. 
+##### 2- Questions to be answered by students - knowledge transfer. 
